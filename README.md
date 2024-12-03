@@ -20,27 +20,6 @@ Edge Inference, Edge Intelligence, Collaborative DNN Inference, Distributed Comp
 |2023.08| 🔥[SARATHI] SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills|[[pdf]](https://arxiv.org/abs/2308.16369) | | ⭐️ | 
 |2024.05| 🔥[Galaxy] Galaxy: A Resource-Efficient Collaborative Edge AI System for In-situ Transformer Inference|[[pdf]](https://arxiv.org/abs/2405.17245) | | ⭐️ | 
 
-
-## 📖 Contents' from [Awesome-LLM-Inference](#https://github.com/DefTruth/Awesome-LLM-Inference?tab=readme-ov-file)
-* 📖[Trending LLM/VLM Topics](#Trending-LLM-VLM-Topics)🔥🔥🔥
-* 📖[DP/MP/PP/TP/SP/CP Parallelism](#DP-MP-PP-TP-SP-CP)🔥🔥🔥
-* 📖[LLM Algorithmic/Eval Survey](#LLM-Algorithmic-Eval-Survey)
-* 📖[LLM Train/Inference Framework/Design](#LLM-Train-Inference-Framework)
-* 📖[Weight/Activation Quantize/Compress](#Weight-Activation-Quantize-Compress)🔥
-* 📖[Continuous/In-flight Batching](#Continuous-In-flight-Batching)
-* 📖[IO/FLOPs-Aware/Sparse Attention](#IO-FLOPs-Aware-Attention-Sparse)🔥
-* 📖[KV Cache Scheduling/Quantize/Dropping](#KV-Cache-Scheduling-Quantize-Dropping)🔥
-* 📖[Prompt/Context Compression](#Context-Compression)🔥
-* 📖[Long Context Attention/KV Cache Optimization](#Long-Context-Attention-KVCache)🔥🔥
-* 📖[Early-Exit/Intermediate Layer Decoding](#Early-Exit)
-* 📖[Parallel Decoding/Sampling](#Parallel-Decoding-Sampling)🔥
-* 📖[Structured Prune/KD/Weight Sparse](#Structured_Pruning_KD_Weight_Sparse)
-* 📖[Mixture-of-Experts(MoE) LLM Inference](#Mixture_of_Experts_LLM_Inference)🔥
-* 📖[CPU/NPU/FPGA/Mobile Inference](#CPU-Single-GPU-Inference)
-* 📖[Non Transformer Architecture](#Non-Transformer-Architecture)🔥
-* 📖[GEMM/Tensor Cores/WMMA/Parallel](#GEMM-Tensor-Cores-WMMA)  
-* 📖[VLM/Position Embed/Others](#Others)
-
 * 
 <!--
 <div align='center'>
