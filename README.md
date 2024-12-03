@@ -20,7 +20,7 @@ Edge Inference, Edge Intelligence, Collaborative DNN Inference, Distributed Comp
 |2023.08| 🔥[SARATHI] SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills|[[pdf]](https://arxiv.org/abs/2308.16369) | | ⭐️ | 
 |2024.05| 🔥[Galaxy] Galaxy: A Resource-Efficient Collaborative Edge AI System for In-situ Transformer Inference|[[pdf]](https://arxiv.org/abs/2405.17245) | | ⭐️ | 
 
-* 
+ 
 <!--
 <div align='center'>
   <img width="450" height="250" alt="v02" src="https://github.com/DefTruth/LLMs-Inference-Papers/assets/31974251/bb136842-8054-4599-8bfe-36c36f0e997f">  
