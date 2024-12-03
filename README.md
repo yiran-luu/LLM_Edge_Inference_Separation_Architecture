@@ -6,7 +6,7 @@ Collection of popular literature
 ## 📒Introduction
 Edge Inference, Edge Intelligence, Collaborative DNN Inference, Distributed Computing
 
-### 📖Trending LLM/VLM Topics ([©️back👆🏻](#paperlist))  
+### 📖Collection of popular literature
 <div id="Trending-LLM-VLM-Topics"></div>  
 
 |Date|Title|Paper|Code|Recom|
