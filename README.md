@@ -18,7 +18,7 @@ Edge Inference, Edge Intelligence, Collaborative DNN Inference, Distributed Comp
 |2024.06|🔥[**Mooncake**] Mooncake: A KVCache-centric Disaggregated Architecture for LLM Serving(@Moonshot AI) |[[pdf]](https://github.com/kvcache-ai/Mooncake/blob/main/Mooncake-v1.pdf) | [[Mooncake]](https://github.com/kvcache-ai/Mooncake) ![](https://img.shields.io/github/stars/kvcache-ai/Mooncake.svg?style=social)|⭐️⭐️ |    
 |2024.02|🔥[ChunkAttention] ChunkAttention: Efficient Self-Attention with Prefix-Aware KV Cache and Two-Phase Partition| [[pdf]](https://arxiv.org/abs/2402.15220) | [[ChunkAttention]](https://github.com/microsoft/chunk-attention) |⭐️⭐️ |  
 |2023.08| 🔥[SARATHI] SARATHI: Efficient LLM Inference by Piggybacking Decodes with Chunked Prefills|[[pdf]](https://arxiv.org/abs/2308.16369) | | ⭐️ | 
-|2024.01| 🔥[Galaxy] Galaxy: A Resource-Efficient Collaborative Edge AI System for In-situ Transformer Inference|[[pdf]](https://arxiv.org/abs/2405.17245) | | ⭐️ | 
+|2024.05| 🔥[Galaxy] Galaxy: A Resource-Efficient Collaborative Edge AI System for In-situ Transformer Inference|[[pdf]](https://arxiv.org/abs/2405.17245) | | ⭐️ | 
 
 
 ## 📖 Contents' from [Awesome-LLM-Inference](#https://github.com/DefTruth/Awesome-LLM-Inference?tab=readme-ov-file)
